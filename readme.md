@@ -21,7 +21,7 @@ Usage
 
 Just start typing and up will pop the CodeIgniter functions in question.
 
-By default Sublime Text only triggers on characters, so if you’re trying to auto-complete by typing “$this” it isn’t going to work. Instead, try typing “this” and you should see the list pop up.
+By default Sublime Text only triggers on characters, so if you’re trying to auto-complete by typing “$this” it isn’t going to work. Instead, try typing ~~“this”~~ “ci” and you should see the list pop up.
 
 Tips
 ----
